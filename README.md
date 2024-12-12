@@ -122,3 +122,5 @@ Common methods: `add()`, `remove()`, `get()`, `size()`, `isEmpty()`
 
 **Details:**  
 - Discuss checked vs. unchecked exceptions, how to handle multiple exceptions, and how to create custom exceptions.
+
+/////
